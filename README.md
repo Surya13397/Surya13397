@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Surya13397
 - 👀 I’m interested in Cyber security
-- 🌱 I’m currently learning Block chain, Fog Computing, IOT, IOT Security, Siot, CLoud Computing
+- 🌱 I’m currently learning Block chain, IOT, IOT Security, Siot, Microsoft office 365
 - 📫 How to reach me vickey.suryar@gmail.com
 
 <!---
